@@ -6,3 +6,5 @@ layout: default
 ---
 
 Hello World
+
+{% include footer.html %}
