@@ -21,4 +21,3 @@ We are a bunch of technical writers, educators, product developers and power use
 
 You can join us on our [email list](https://lists.osgeo.org/mailman/listinfo/seasonofdocs) or on [slack](https://thegooddocs.slack.com).
 
-{% include footer.html %}
