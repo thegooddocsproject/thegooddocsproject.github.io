@@ -13,7 +13,7 @@ Please do reach out to us with your ideas.
 ## Contact us
 
 * Slack: [https://thegooddocs.slack.com/](https://thegooddocs.slack.com/) 
-* Email list: [https://lists.osgeo.org/mailman/listinfo/seasonofdocs](https://lists.osgeo.org/mailman/listinfo/seasonofdocs) 
+* Email list: [https://groups.io/g/thegooddocsproject/](https://groups.io/g/thegooddocsproject/)
 
 ## About contributing
 
