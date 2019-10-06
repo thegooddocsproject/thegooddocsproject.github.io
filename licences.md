@@ -1,7 +1,7 @@
 
-### License of Templates: CC0
+### License of Templates: 0BSD
 
-In order to facilitate maximum reusability, artifacts provided in *The Good Doc Project* templates repository are dedicated to the public domain, as per the [Creative Common Zero Universal Public Domain Dedication (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/). These artifacts are permitted to be incorporated into any other licenced work.
+In order to facilitate maximum reusability, artifacts provided in *The Good Doc Project* templates repository are dedicated to the public domain, as per the [Zero-Clause BSD license](https://https://opensource.org/licenses/0BSD). These artifacts are permitted to be incorporated into any other licenced work.
 
 While not mandated, we do appreciate being acknowledged. Hopefully you will help others find our project using a statement like:
 
@@ -9,11 +9,11 @@ While not mandated, we do appreciate being acknowledged. Hopefully you will help
 
 ### License of supporting docs and website: CC-By
 
-*The Good Docs Project* website, along with supporting documentation for the template artifacts is licensed under a [Creative Commons By Attribution License (CC-By 4.0)](https://creativecommons.org/licenses/by/4.0/).
+*The Good Docs Project* website, along with supporting documentation for the template artifacts, are licensed under a [Creative Commons By Attribution License (CC-By 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 You can attribute documentation using a statement similar to:
 
-“This document [is derived from|includes|extends] documentation from [The Good Docs Project](https://thegooddocsproject.dev/).”
+“This document [is derived from \| includes \| extends] documentation from [The Good Docs Project](https://thegooddocsproject.dev/).”
 
 
 ### Contributor Agreement
