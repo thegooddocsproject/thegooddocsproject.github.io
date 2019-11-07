@@ -1,7 +1,7 @@
 
 ### License of Templates: 0BSD
 
-In order to facilitate maximum reusability, artifacts provided in *The Good Docs Project* templates repository are dedicated to the public domain, as per the [Zero-Clause BSD license](https://https://opensource.org/licenses/0BSD). These artifacts are permitted to be incorporated into any other licenced work.
+In order to facilitate maximum reusability, artifacts provided in *The Good Docs Project* templates repository are dedicated to the public domain, as per the [Zero-Clause BSD license](https://opensource.org/licenses/0BSD). These artifacts are permitted to be incorporated into any other licenced work.
 
 While not mandated, we do appreciate being acknowledged. Hopefully you will help others find our project using a statement like:
 
