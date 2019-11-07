@@ -13,24 +13,24 @@ Please do reach out to us with your ideas.
 
 ## Contact us
 
-* Slack: [https://thegooddocs.slack.com/](https://thegooddocs.slack.com/) 
+* Slack: [https://thegooddocs.slack.com/](https://thegooddocs.slack.com/)
 * Email list: [https://groups.io/g/thegooddocsproject/](https://groups.io/g/thegooddocsproject/)
 
 ## About contributing
 
 ### Licenses
 
-By contributing to this project we expect you to agree to the [Developer Certificate of Origin](https://developercertificate.org/) (DCO). This document was created by the Linux Kernel community and is a simple statement that you, as a contributor, have the legal right to make the contribution, and agree to do so under the [open licenses](licenses) we use.
+By contributing to this project we expect you to agree to the [Developer Certificate of Origin](https://developercertificate.org/) (DCO). This document was created by the Linux Kernel community and is a simple statement that you, as a contributor, have the legal right to make the contribution, and agree to do so under the [open licenses](https://thegooddocsproject.dev/licences) we use.
 
 ### Contributing
 
 You can improve our documentation by submitting a pull request to our [Github templates repo](https://github.com/thegooddocsproject/templates). Here is [how](https://guides.github.com/activities/hello-world/).
 
-For all but minor typos, it is s a good idea to discuss your proposed changes with us before submitting a pull request. 
+For all but minor typos, it is s a good idea to discuss your proposed changes with us before submitting a pull request.
 
 ### Issue tracker
 
-We track outstanding work in our [github  tracker](https://github.com/thegooddocsproject/templates/issues). To keep our issue tracker manageable, we prefer you discuss suggestions or issues in one of our forums, typically our email list, before adding an issue to the tracker. 
+We track outstanding work in our [github  tracker](https://github.com/thegooddocsproject/templates/issues). To keep our issue tracker manageable, we prefer you discuss suggestions or issues in one of our forums, typically our email list, before adding an issue to the tracker.
 
 ### Style Guide
 
