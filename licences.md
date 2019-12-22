@@ -18,4 +18,4 @@ You can attribute documentation using a statement similar to:
 
 ### Contributor Agreement
 
-By contributing to this project, contributors agree to provide their contributions in line with the project’s licenses, as per the [Developer Certificate of Origin statement](https://developercertificate.org/).
+By contributing to this project, contributors agree to provide their contributions in line with the project’s licenses, as per the [Developer Certificate of Origin statement version 1.0](https://developercertificate.org/).
