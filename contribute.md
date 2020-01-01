@@ -9,12 +9,8 @@ We’d love your help.
 *   Do you know of research which should be referenced?
 *   Something else?
 
-Please do reach out to us with your ideas.
+Please do [reach out](contribute) to us with your ideas.
 
-## Contact us
-
-* Slack: [https://thegooddocs.slack.com/](https://thegooddocs.slack.com/)
-* Email list: [https://groups.io/g/thegooddocsproject/](https://groups.io/g/thegooddocsproject/)
 
 ## About contributing
 

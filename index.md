@@ -14,9 +14,3 @@ Providing writing templates:
 *   Improves doc quality and consistency across the board.
 *   Facilitates the democratisation of knowledge.
 *   Leads to self-empowerment and the betterment of humankind.
-
-### Who are we?
-
-We are a bunch of technical writers, educators, product developers and power users who also write. Some of us have big titles in large organisations; others don’t. We are committed to helping others write great documentation through this project.
-
-You can join us on our [email list](https://groups.io/g/thegooddocsproject/) or on [slack](https://thegooddocs.slack.com).
