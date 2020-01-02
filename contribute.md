@@ -9,7 +9,7 @@ We’d love your help.
 *   Do you know of research which should be referenced?
 *   Something else?
 
-Please do [reach out](contribute) to us with your ideas.
+Please do [reach out](contact) to us with your ideas.
 
 
 ## About contributing
