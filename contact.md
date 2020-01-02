@@ -1,7 +1,7 @@
 # Contact us
 
 ### Email Lists
-Email lists are our primary form of communication. How to join and archives linked from:
+Email lists are our primary form of communication. How to join and archives are linked from:
 
 * [Main list](): Development discussion.
 * [Announcements](): Announcements about releases and key events. (Typically monthly).
