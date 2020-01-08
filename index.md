@@ -3,7 +3,7 @@ _“Best practice templates and writing instructions for documenting open source
 ### Download
 
 * The [0.1 alpha staw-man release of templates](https://github.com/thegooddocsproject/templates/releases/tag/v0.1) was released at the 2019 Write The Docs - Australia conference.
-* The latest development version of templates areavailable from the [github master branch](https://github.com/thegooddocsproject/templates).
+* The latest development version of templates are available from the [github master branch](https://github.com/thegooddocsproject/templates).
 
 ### Why?
 
