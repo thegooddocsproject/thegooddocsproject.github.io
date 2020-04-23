@@ -13,13 +13,7 @@ Why do we prefer email lists?
 
 ### Slack
 
-We often chat in slack. You can join [here](https://join.slack.com/t/thegooddocs/shared_invite/enQtODkyNjI5MDc0NjE0LTUyNGFiZmU1MjIzNDMwN2E3NmQwODQwZmRkYWI5MDhlMzdjYzg4Nzg4YjM3ODA0NGE4MTgyYzdkMGViMTI2MDM).
-
-The main channels are:
-
-* #announcements: Notifications of upcoming initiatives / releases / etc.
-* #general: General development discussion
-* #random: Non-work-related stuff
+We use Slack for informal discussions that would be of no interest to the wider audience. You are welcome to join [here](https://join.slack.com/t/thegooddocs/shared_invite/enQtODkyNjI5MDc0NjE0LTUyNGFiZmU1MjIzNDMwN2E3NmQwODQwZmRkYWI5MDhlMzdjYzg4Nzg4YjM3ODA0NGE4MTgyYzdkMGViMTI2MDM).
 
 ### Real-time conference calls
 
