@@ -4,7 +4,7 @@
 Email lists are our primary form of communication. How to join and archives are linked from:
 
 * [Main list](https://thegooddocsproject.groups.io/g/main): Development discussion.
-* [Announcements](https://github.com/thegooddocsproject/governance/wiki/Announcements): Announcements about releases and key events. (Typically monthly).
+* [Announcements](https://thegooddocsproject.groups.io/g/announce): Announcements about releases and key events. (Typically monthly).
 
 Why do we prefer email lists?
 
