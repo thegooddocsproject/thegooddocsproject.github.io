@@ -5,7 +5,7 @@ Email lists are our primary form of communication. How to join and archives are 
 
 * [Main list](https://thegooddocsproject.groups.io/g/main): Development discussion.
 * [Announcements](https://thegooddocsproject.groups.io/g/announce): Announcements about releases and key events. (Typically monthly).
-* [Season of Docs](https://thegooddocsproject.groups.io/g/season-of-docs/): For questions specifically about our involvement in [Google's Season of Docs](https://developers.google.com/style). 
+* Questions to our mentors about our [Season of Docs](https://github.com/thegooddocsproject/templates/wiki/Season-of-Docs-Ideas-2020) involvement can be sent to [season-of-docs AT thegooddocsproject.groups.io](https://thegooddocsproject.groups.io/g/season-of-docs/).  
 
 Why do we prefer email lists?
 
