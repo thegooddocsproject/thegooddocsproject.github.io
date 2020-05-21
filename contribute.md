@@ -11,7 +11,7 @@ We’d love your help.
 
 Please do [reach out](contact) to us with your ideas.
 
-Consider contributing financially. We have [Open Collective](https://opencollective.com/thegooddocsproject/) account where you can make a one-off donation or provide ongoing support as a sponsor.
+Consider contributing financially. We have an [Open Collective](https://opencollective.com/thegooddocsproject/) account where you can make a one-off donation or provide ongoing support as a sponsor.
 
 
 ## About contributing
