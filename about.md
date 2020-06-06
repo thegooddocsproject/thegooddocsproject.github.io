@@ -1,4 +1,4 @@
-*TheGoodDocsProject* provides best practice templates and writing instructions that empowers people to document Open Source Software, which incidentally will be directly applicable to other domains too.
+The Good Docs Project provides best practice templates and writing instructions that empowers people to document Open Source Software, which incidentally will be directly applicable to other domains too.
  
 ### Doc Types
 
