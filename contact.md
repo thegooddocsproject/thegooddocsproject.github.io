@@ -26,6 +26,10 @@ The main channels are:
 
 As of 2019/2020 we have been holding weekly half-hour video conference calls. The timeslot often changes. Reach out to us to get an invitation. All interested in contributing are welcome.
 
+### Weekly Meeting Minutes
+
+Minutes from our weekly meetings can be accessed from [here](https://github.com/thegooddocsproject/governance/wiki/Weekly-Meetings). 
+
 ### Code of Conduct
 
 We are nice to each other, in line with our [Code of Conduct](https://github.com/thegooddocsproject/governance/blob/master/CodeOfConduct.md).
