@@ -22,7 +22,7 @@ The main channels are:
 * #general: General development discussion
 * #random: Non-work-related stuff
 
-### Real-time conference calls
+### Real-Time Conference Calls
 
 As of 2019/2020 we have been holding weekly half-hour video conference calls. The timeslot often changes. Reach out to us to get an invitation. All interested in contributing are welcome.
 
@@ -34,7 +34,7 @@ Minutes from our weekly meetings can be accessed from [here](https://github.com/
 
 We are nice to each other, in line with our [Code of Conduct](https://github.com/thegooddocsproject/governance/blob/master/CodeOfConduct.md).
 
-### Who are we?
+### Who are We?
 
 We are a bunch of technical writers, educators, product developers and power users who also write. Some of us have big titles in large organisations; others don’t. We are committed to helping others write great documentation through this project.
 
