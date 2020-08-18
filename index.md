@@ -1,4 +1,4 @@
-_“Best practice templates and writing instructions for documenting open source software.”_
+_“Bests for documenting software.”_
 
 ### Download
 
