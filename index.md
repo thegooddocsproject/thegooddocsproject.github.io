@@ -2,7 +2,7 @@ _“Best practice templates and writing instructions for documenting open source
 
 ### Download
 
-* The [0.1 alpha staw-man release of templates](https://github.com/thegooddocsproject/templates/releases/tag/v0.1) was released at the 2019 Write The Docs - Australia conference.
+* The [0.1 alpha straw-man release of templates](https://github.com/thegooddocsproject/templates/releases/tag/v0.1) was released at the 2019 Write The Docs - Australia conference.
 * The latest development version of templates are available from the [github master branch](https://github.com/thegooddocsproject/templates).
 
 ### Why?
@@ -15,7 +15,7 @@ Your _Good Docs_ can then be extended into _Better Docs_ with greater depth, qua
 
 Providing writing templates:
 
-*   Amplifies the writing effectiveness of developers, power users writers, and more.
-*   Improves doc quality and consistency across the board.
-*   Facilitates the democratisation of knowledge.
-*   Leads to self-empowerment and the betterment of humankind.
+* Amplifies the writing effectiveness of developers, power users writers, and more.
+* Improves doc quality and consistency across the board.
+* Facilitates the democratization of knowledge.
+* Leads to self-empowerment and the betterment of humankind.
