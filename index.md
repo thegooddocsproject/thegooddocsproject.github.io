@@ -1,4 +1,4 @@
-_“Bests for documenting software.”_
+_“Best practices for documenting software.”_
 
 ### Download
 
