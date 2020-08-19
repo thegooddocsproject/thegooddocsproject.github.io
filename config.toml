@@ -54,7 +54,7 @@ id = "UA-00000000-0"
 [languages]
 [languages.en]
 title = "The Good Docs Project"
-description = "Templates for open source docse"
+description = "Templates for open source docs"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
