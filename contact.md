@@ -1,6 +1,10 @@
+---
+layout: default
+---
+
 # Contact us
 
-### Email Lists
+### Email lists
 Email lists are our primary form of communication. How to join and archives are linked from:
 
 * [Main list](https://thegooddocsproject.groups.io/g/main): Development discussion.
@@ -26,7 +30,11 @@ The main channels are:
 
 As of 2019/2020 we have been holding weekly half-hour video conference calls. The timeslot often changes. Reach out to us to get an invitation. All interested in contributing are welcome.
 
-### Code of Conduct
+### Weekly meeting minutes
+
+Minutes from our weekly meetings can be accessed from [here](https://github.com/thegooddocsproject/governance/wiki/Weekly-Meetings). 
+
+### Code of conduct
 
 We are nice to each other, in line with our [Code of Conduct](https://github.com/thegooddocsproject/governance/blob/master/CodeOfConduct.md).
 

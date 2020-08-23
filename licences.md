@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 ### License of Templates: 0BSD
 

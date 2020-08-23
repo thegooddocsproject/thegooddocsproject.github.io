@@ -1,4 +1,9 @@
+---
+layout: default
+---
+
 _“Best practice templates and writing instructions for documenting open source software.”_
+
 
 ### Download
 
@@ -15,7 +20,7 @@ Your _Good Docs_ can then be extended into _Better Docs_ with greater depth, qua
 
 Providing writing templates:
 
-* Amplifies the writing effectiveness of developers, power users writers, and more.
-* Improves doc quality and consistency across the board.
-* Facilitates the democratization of knowledge.
-* Leads to self-empowerment and the betterment of humankind.
+*   Amplifies the writing effectiveness of developers, power users writers, and more.
+*   Improves doc quality and consistency across the board.
+*   Facilitates the democratisation of knowledge.
+*   Leads to self-empowerment and the betterment of humankind.
