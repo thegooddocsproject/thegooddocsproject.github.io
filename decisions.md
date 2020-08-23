@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## The Good Docs Project Decisions
 
 ### Criteria for Decision Making

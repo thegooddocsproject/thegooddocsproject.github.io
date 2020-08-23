@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Contact us
 
 ### Email lists

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ### Roles
 
 ## The Good Docs Project Steering Committee
