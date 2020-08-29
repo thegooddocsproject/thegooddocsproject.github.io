@@ -40,7 +40,7 @@ On initiation of this process, a call for proposals will be sent to public forum
     *   You must be at least 18 years of age when you register.
     *   You must be eligible to work in the country you will reside in during the program.
     *   You must reside in a country that is not currently embargoed by the United States. See the [program rules](https://developers.google.com/season-of-docs/terms/program-rules) and the [Sanctions Programs and Country Information](https://www.treasury.gov/resource-center/sanctions/Programs/Pages/Programs.aspx) from the US Treasury.
-*   We support diversity and encourage applications and involvement from underrepresented communities.
+*   We support diversity and encourage applications and involvement from under-represented communities.
 
 ## Implementation process
 
