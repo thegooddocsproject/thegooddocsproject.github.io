@@ -21,7 +21,7 @@ We prioritize the following principles when considering budget allocation:
 *   We like unblocking obstacles preventing the community from moving forward. Maybe a technical challenge, maybe a bunch of boring grunt work or it could be business-as-usual overheads.
 *   We prioritize ideas which are not already being solved elsewhere.
 *   We are wary of introducing a maintenance liability. We want material which is going to be adopted and maintained by the greater community.
-*   We look favourably on matching contributions. If someone else is prepared to sponsor your idea, it is a good indicator of a worthiness.
+*   We look favourably on matching contributions. If someone else is prepared to sponsor your idea, it is a good indicator of worthiness.
 *   We like to help owners of useful proprietary material who wish to share it under an open license. This could be by covering the business costs of sharing, or by counting the material as an in-kind contribution.
 *   The results of any implementation, and its dependencies, must be available under the open licenses used by our project.
 
