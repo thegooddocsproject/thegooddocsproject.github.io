@@ -4,7 +4,7 @@ layout: default
 
 # Prioritization guidelines
 
-This document describes the principles to be considered when introducing major functionality and sponsorship for [The Good Docs Project](https://thegooddocsproject.dev/). It should be read in conjunction with our [budget approval process](budget.html).
+This document describes the principles to be considered when introducing major functionality and sponsorship for [The Good Docs Project](https://thegooddocsproject.dev/). It should be read in conjunction with our [proposal selection process](proposal-selection.html).
 
 **Version:** 1.0
 
