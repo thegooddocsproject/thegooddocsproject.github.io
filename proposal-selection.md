@@ -55,7 +55,7 @@ A variant on the following process should be considered for major initiatives.
 **Prepare proposal:**
 
 *   Develop a proposal in conjunction with the community. Make sure it addresses our project priorities.
-*   Find a trusted mentor from our community who is willing to mentor you.
+*   Find a trusted member of our community who is willing to mentor you.
 *   Share proposal.
 
 **Review proposals:**
