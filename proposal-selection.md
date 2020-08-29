@@ -50,7 +50,7 @@ A variant on the following process should be considered for major initiatives.
 
 *   Float an idea in our community forums.
 *   Look for feedback, interest and engagement. 
-*   If you attract significant community interest and support, and the required effort is more than is likely to be addressed by volunteers, you might consider developing a proposal for sponsored work.
+*   If you attract significant community interest and support, and the required effort is more than is likely to be addressed by volunteers, develop a proposal for sponsored work.
 
 **Prepare proposal:**
 
