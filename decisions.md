@@ -32,7 +32,7 @@ Should a decision:
 *   Be strategic or impact many within the project,
 *   Be contentious, and after discussion at least one member is still strongly against the motion, by continuing to vote -1,
 
-then a motion should be raised as an email thread on our [general email list](https://thegooddocsproject.groups.io/g/main). The title should start: “Motion: …”
+then a motion should be raised as an email thread on our [general email list](https://thegooddocsproject.groups.io/g/main). The subject line should start: “Motion: …”
 
 All community members are encouraged to vote to demonstrate community support, however contentious motions will only count votes from PSC members.
 
