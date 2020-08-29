@@ -34,7 +34,7 @@ Should a decision:
 
 then a motion should be raised as an email thread on our [general email list](https://thegooddocsproject.groups.io/g/main). The subject line should start: “Motion: …”
 
-All community members are encouraged to vote to demonstrate community support, however contentious motions will only count votes from PSC members.
+All community members are encouraged to vote to help us reach community concensus. Should a motion be contentious only votes from PSC members will be counted. PSC are expected to advocate for the best interests of our community and consider community opinions when voting.
 
 A motion is considered passed when there are more PSC +1 votes than -1 votes, and either all PSC members have voted, or 4 days have passed. In the case of a tie, the PSC chair shall have the deciding vote.
 
