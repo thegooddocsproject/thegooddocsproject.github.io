@@ -70,7 +70,7 @@ A PSC chair shall be selected from the PSC, with the only official extra duty be
 *   Vote according to your personal best judgment, as opposed to voting on behalf of your employer.
 *   Vote promptly (usually within days) to motions being raised.
 *   Regularly participate in project activities.
-*   Help with whatever unglamourous work that is required to keep the project moving forward.
+*   Help with whatever unglamorous work that is required to keep the project moving forward.
 *   Monitor conversations within our forums and contribute constructively where appropriate.
 *   Optionally attend weekly meetings.
 
