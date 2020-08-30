@@ -123,5 +123,5 @@ In order to limit the risk of misappropriation of funds, financial approval priv
     *   Selecting a PSC chair.
 *   Ad-hoc invitations may be initiated throughout the year, as needed.
 *   Retired members should expect to be welcomed back if they become active again.
-*   PSC discussions about membership will typically be conducted privately in order to respect people’s feelings.
+*   PSC discussions about membership will typically be conducted privately in order to respect the feelings of those being discussed.
 *   PSC selection decisions will follow our decision making process.
