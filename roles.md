@@ -21,7 +21,7 @@ Everyone contributing to, or using artifacts from, The Good Docs Project is cons
 
 **Access:**
 
-*   Community members are granted _read_ access to our github repositories.
+*   Community members have _read_ access to our github repositories (by default).
 
 **Expectations of community members:**
 
