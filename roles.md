@@ -17,6 +17,7 @@ Everyone contributing to, or using artifacts from, The Good Docs Project is cons
 *   Participate in our forums and vote on motions.
 *   Raise and comment on issues.
 *   Suggest fixes by raising pull requests.
+*   Comment on and review pull requests.
 
 **Access:**
 
