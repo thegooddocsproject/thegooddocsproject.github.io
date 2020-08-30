@@ -90,7 +90,7 @@ A variant on the following process should be considered for major initiatives.
 ## Project Adjustments
 
 *   Project scope may be adjusted by mutual agreement between the mentor and proposer. 
-*   Scope changes must be approved by the mentor and PSC [decision process](decision.html).
+*   Scope changes must be approved by the mentor and PSC [decision process](decisions.html).
 *   All scope changes must be documented in writing.
 
 ## Project completion
