@@ -56,7 +56,7 @@ Before being accepted for this role, a person should display the following chara
 The Project Steering Committee (PSC) is the official managing body for our project. The committee is drawn from the community and is based on merit and interest.
 
 *   We aim to attract a diverse mix of personal characteristics, reflective of the community we represent.
-*   We wish to avoid having one organisation employing a controlling proportion of the PSC.
+*   We wish to avoid having employees of any one organisation representing a controlling proportion of the PSC.
 
 A PSC chair shall be selected from the PSC, with the only official extra duty being that they have a deciding vote in the case of a tie.
 
