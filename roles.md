@@ -15,7 +15,7 @@ Here we define roles within The Good Docs Project, along with the eligibility, e
 Everyone contributing to, or using artifacts from, The Good Docs Project is considered part of our community. We encourage all community members to actively participate in our activities. This includes:
 
 *   Participate in our forums and vote on motions.
-*   Raise and comment on bugs.
+*   Raise and comment on issues.
 *   Suggest fixes by raising pull requests.
 
 **Access:**
