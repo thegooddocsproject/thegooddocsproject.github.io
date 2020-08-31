@@ -41,4 +41,4 @@ A motion is considered passed when there are more PSC +1 votes than -1 votes, an
 ## Record decisions
 
 *   All decisions should be captured in meeting minutes or forwarded to our email list. 
-*   Results of significant decisions should be copied into our [decision register](https://github.com/thegooddocsproject/governance/wiki/Decision-Log-2010).
+*   Results of significant decisions should be copied into our [decision register](https://github.com/thegooddocsproject/governance/wiki/Decision-Log-2020).
