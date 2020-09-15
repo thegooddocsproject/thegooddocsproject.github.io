@@ -31,6 +31,8 @@ Everyone contributing to, or using artifacts from, The Good Docs Project is cons
 
 A committer is a trusted community member who has additionally been given _write_ access to some or all of our github repositories.
 
+[Current committers](who-are-we.html)
+
 **Access:**
 
 *   Committers are granted _triage_, _maintain_ and _write_ access to the github repositories which they have contributed to.
@@ -60,6 +62,8 @@ The Project Steering Committee (PSC) is the official managing body for our proje
 
 A PSC chair shall be selected from the PSC, with the only official extra duty being that they have a deciding vote in the case of a tie.
 
+[Current PSC members](who-are-we.html)
+
 **Access:**
 
 *   PSC members may be granted admin access to our github repositories if they have a need for them.
@@ -84,7 +88,9 @@ Before being accepted for this role, a person should display the following chara
 
 ## Mentors
 
-Initiatives which are funded by The Good Docs Project should have a mentor.  
+Initiatives which are funded by The Good Docs Project should have a mentor.
+
+[Current mentors](who-are-we.html)
 
 **Expectations of mentors:**
 
@@ -105,6 +111,8 @@ Any conflict-of-interest the mentor may have should be stated beforehand. This c
 ## Treasurers
 
 Treasurers are PSC members who additionally have been provided with admin access to our [financial account with Open Collective](https://opencollective.com/thegooddocsproject).
+
+[Current treasurers](who-are-we.html)
 
 **Expectations of treasurers:**
 

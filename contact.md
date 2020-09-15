@@ -42,4 +42,4 @@ We are nice to each other, in line with our [Code of Conduct](https://github.com
 
 We are a bunch of technical writers, educators, product developers and power users who also write. Some of us have big titles in large organisations; others don’t. We are committed to helping others write great documentation through this project.
 
-People on our Project Steering Committee are listed [here](https://github.com/thegooddocsproject/governance/blob/master/ProjectSteeringCommittee.md).
+Our [who are we](who-we-are.html) page lists our active members who have taken up official roles.
