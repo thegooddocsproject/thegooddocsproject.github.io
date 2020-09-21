@@ -7,6 +7,7 @@ layout: default
 *   [Contact us](contact.html)
 *   [Contribute](contribute.html)
 *   [Roles and responsibilities](roles.html)
+    * [Who are we?](who-are-we.html)
 * Decisions
     *   [Voting process](decisions.html)
     *   [Prioritization guidelines and principles](prioritization.html)
