@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 Here we list the people behind this project, as defined by the project's [roles](roles.html).
 
