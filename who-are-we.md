@@ -24,7 +24,9 @@ Our thanks to previous PSC members:
 
 * Lana Brindley
 * Daniel Beck
+* Aidan Doherty
 * Viraji Ogodapola
+* Aaron Peters
 
 Our thanks to previous committers:
 
