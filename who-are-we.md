@@ -13,6 +13,7 @@ Here we list the people behind this project, as defined by the project's [roles]
 * Erin McKean
 * Clarence Cromwell
 * Morgan Craft
+* Alyssa Rock
 
 Our thanks to previous PSC members:
 
