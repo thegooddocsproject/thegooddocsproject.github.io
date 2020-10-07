@@ -6,9 +6,9 @@ layout: default
 
 Here we define roles within The Good Docs Project, along with the eligibility, expectations, and responsibilities associated with these roles.
 
-**Version:** 2.0
+**Version:** 2.0.1
 
-**Last updated:** August 2020
+**Last updated:** September 2020
 
 ## Community
 
@@ -133,3 +133,26 @@ In order to limit the risk of misappropriation of funds, financial approval priv
 *   Retired members should expect to be welcomed back if they become active again.
 *   PSC discussions about membership will typically be conducted privately in order to respect the feelings of those being discussed.
 *   PSC selection decisions will follow our decision making process.
+
+## Invitation email
+
+_This example email can be customized to be made personal_.
+
+Hi \[Name],
+
+We, the Project Steering Committee of The Good Docs Project, have been impressed with your contributions to The Good Docs Project, and would like to invite you to take up our official role of \[Role].
+
+To accept, could you please reply publicly to this email list confirming:
+1. You would like to accept the role.
+1. You feel you meet the eligibility criteria, including your intent to continue participating in this project for a while.
+1. You accept the responsibilities associated with the role, as described in https://thegooddocsproject.dev/roles.html.
+
+Regards,
+
+\[Name], on behalf of the PSC
+
+## Next steps
+* Wait untill the person accepts the invitation.
+* Add the person's name to the [who-are-we](who-are-we.html) page.
+* Update our decision register, as per our [decisions](decisions.html) process.
+* Add person to appropriate teams in [GitHub](https://github.com/orgs/thegooddocsproject/teams).
