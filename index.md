@@ -32,6 +32,7 @@ Our target readers are software developers and early-stage technical writers, wh
 * Information architecture guide
 * Cross-domain management of glossaries 
 * How-to for style guides
+* Base template (template for templates)
 
 And possibly:
 * Docs audit framework
