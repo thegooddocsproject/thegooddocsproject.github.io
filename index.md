@@ -12,7 +12,7 @@ We are creating processes, templates, and guides covering the numerous aspects o
 
 ### Why?
 
-We want to help open source projects be more effective and more impactful by helping them lift the quality of their documentation. 
+We want to help open source projects be more effective and more impactful by helping them lift the quality of their documentation. And in the process, we expect to lift the quality of technical writing for all software.
 
 Our open-source Minimum Viable Docset (MVD) will help you create a baseline set of documentation using a suite of templates.
 
