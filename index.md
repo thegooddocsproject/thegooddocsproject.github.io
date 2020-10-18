@@ -28,6 +28,7 @@ Our target readers are software developers and early-stage technical writers, wh
 * The [0.1 alpha straw-man release of templates](https://github.com/thegooddocsproject/templates/releases/tag/v0.1) was released at the 2019 Write The Docs - Australia conference.
 
 ### 2020 Initiatives
+The following initiatives are being worked on in 2020:
 * Templates
 * Information architecture guide
 * Cross-domain management of glossaries 
