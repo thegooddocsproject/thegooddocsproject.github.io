@@ -4,23 +4,25 @@ layout: default
 
 _“Best practice templates and writing instructions for documenting open source software.”_
 
-### What?
+### Why?
 
-Every project deserves a minimum level of _Good Docs_, but it can be really hard to know where to start or what to write. 
+We want to help open source projects be more effective and more impactful by helping them lift the quality of their documentation. In the process, we expect to lift the quality of technical writing for all software.
+
+### How?
 
 We are creating processes, templates, and guides covering the numerous aspects of writing good documentation. We describe our reasoning, referencing research where available, to help writers decide when they should deviate from suggestions.
 
-### Why?
+### What?
 
-We want to help open source projects be more effective and more impactful by helping them lift the quality of their documentation. And in the process, we expect to lift the quality of technical writing for all software.
-
-Our open-source Minimum Viable Docset (MVD) will help you create a baseline set of documentation using a suite of templates.
+Every project deserves a minimum level of _Good Docs_, but it can be really hard to know where to start or what to write. Our open-source Minimum Viable Docset (MVD) will help you create a baseline set of documentation using a suite of templates.
 
 ### Who?
 
-We are writing for people who have an open source project and want to improve their docs.
+Our key target audiences are:
 
-Our target readers are software developers and early-stage technical writers, who can read and write English, and are motivated to learn by example.
+* Software developers who want to use guides and templates to create documentation for their project.
+* Technical writers setting up a documentation framework, who want to make use of established templates and processes, customizing where appropriate to align with the project's goals.
+* Project owners who need to balance project priorities, and want to understand the return-on-effort associated with different documentation strategies.
 
 ### Download
 
