@@ -8,7 +8,7 @@ _“Best practice templates and writing instructions for documenting open source
 
 Every project deserves a minimum level of _Good Docs_ that help users understand and solve problems with your product. But it can be really hard to know where to start or what to write. 
 
-We are creating processes, templates, and guides covering the numerous aspects of writing good documentation; and we are providing justifications by describing our logic and referencing research where available.
+We are creating processes, templates, and guides covering the numerous aspects of writing good documentation. We describe our logic, referencing research where available.
 
 ### Why?
 
