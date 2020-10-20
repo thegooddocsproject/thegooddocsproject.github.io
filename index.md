@@ -14,7 +14,7 @@ We are creating processes, templates, and guides covering the numerous aspects o
 
 ### What?
 
-Every project deserves a minimum level of _Good Docs_, but it can be really hard to know where to start or what to write. Our open-source Minimum Viable Docset (MVD) will help you create a baseline set of documentation using a suite of templates.
+Every project deserves a minimum level of _Good Docs_, but it can be really hard to know where to start or what to write. Our open source suite of templates will help you create a baseline set of documentation.
 
 ### Who?
 
