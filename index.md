@@ -6,7 +6,7 @@ _“Best practice templates and writing instructions for documenting open source
 
 ### Why?
 
-We want to help open source projects be more effective and more impactful by helping them lift the quality of their documentation. In the process, we expect to lift the quality of technical writing for all software.
+We want to help open source projects be more effective by helping them lift the quality of their documentation. 
 
 ### How?
 
