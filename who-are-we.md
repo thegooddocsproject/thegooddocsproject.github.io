@@ -8,7 +8,6 @@ Here we list the people behind this project, as defined by the project's [roles]
 
 * Cameron Shorter, chair
 * Felicity Brand
-* Jo Cook
 * Jared Morgan
 * Erin McKean
 * Clarence Cromwell
@@ -17,6 +16,7 @@ Here we list the people behind this project, as defined by the project's [roles]
 
 Our thanks to previous PSC members:
 
+* Jo Cook
 * Jennifer Rondeau
 * Becky Todd
 
