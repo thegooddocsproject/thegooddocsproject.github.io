@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Information Architecture
 
 Let's go on an adventure into another world.
