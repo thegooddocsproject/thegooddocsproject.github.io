@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Information Architecture Guide
 
 Not quite ready to jump into the templates yet?
@@ -11,4 +15,4 @@ Use the interactive version for an immersive experience, and choose your own adv
 
 Or, if you just want a quick refresher, check out the static guide instead.
 
-[Static Information Architecture Guide](ia-guide/ia-static.md)
+[Static Information Architecture Guide](ia-guide/ia-static.html)
