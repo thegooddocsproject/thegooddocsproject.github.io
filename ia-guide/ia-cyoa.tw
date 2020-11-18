@@ -69,7 +69,10 @@ It won't take very long for you to get through it, and it will save you time in 
 When you're done, you should have a good idea of who your main readers are, the kinds of things they are using your docs for, and what kinds of docs they might be expecting.
 This will help you know which templates to use from the Good Docs Project, and give you the basics to start completing them.
 
-If you don't want to do this using the interactive tool, you can [[don't click here the link does not exist yet]] to go to the static text instead.
+If you don't want to do this using the interactive tool, [[click here->https://thegooddocsproject.dev/ia-guide/ia-static.html]] to go to the static text instead.
+
+[[check out the templates->https://github.com/thegooddocsproject/templates/blob/master/README.md]]
+
 
 When you're ready, tell me your name:
 
@@ -681,6 +684,6 @@ It has a polar bear on the cover.
 You've reached the end of the interactive Information Architecture Guide.
 If you're ready to get started, go [[check out the templates->https://github.com/thegooddocsproject/templates/blob/master/README.md]]
 
-If you want to refer back to this guide later on, visit the [[static version->don't click here the link does not exist yet]]
+If you want to refer back to this guide later on, visit the [[static version->https://thegooddocsproject.dev/ia-guide/ia-static.html]].
 
 Or, if you want to go back and check something, you can {back link, label: 'go back a step'}, or {restart link, label: 'restart from the beginning'}.
