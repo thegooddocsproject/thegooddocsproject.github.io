@@ -342,4 +342,4 @@ It has a polar bear on the cover.
 You've reached the end of the static Information Architecture Guide.
 If you're ready to get started, go [check out the templates](https://github.com/thegooddocsproject/templates/blob/master/README.md)
 
-If you want to try the interactive version of this guide, visit the [interactive IA Guide](don't click here the link does not exist yet).
+If you want to try the interactive version of this guide, visit the [Interactive Information Architecture Guide](ia-guide/ia-cyoa.html).
