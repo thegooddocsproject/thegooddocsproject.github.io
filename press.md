@@ -4,6 +4,7 @@ layout: default
 
 ## Press
 
+*   2020-11-17 [Documentation templates and The Good Docs Project](https://idratherbewriting.com/blog/documentation-templates-good-docs-project/): Ankita Tripathi's journey into The Good Docs Project.
 *   2020-09-22 "Tech Writing Patterns and Anti-Patterns", and how these are getting tackled by The Good Docs Project. Presented at Write the Docs Australia virtual meetup by Cameron Shorter: [Video](https://www.youtube.com/watch?v=yiGFbXYyCr0&feature=youtu.be) and [slides](https://docs.google.com/presentation/d/1yFJ2WL-l8O1vnNR67bFfmzHu6tyJjtkJD-cSyH3mNes/).
 *   2020-09-18 [Google's Open Source Peer Bonus awards for Jared Morgan and Jo Cook](http://cameronshorter.blogspot.com/2020/09/awards-for-open-source-tech-writers.html).
 *   2020-05-27 Article about Felicity, including [her involvement in TheGoodDocsProject](https://typo3.org/article/typo3-book-report-whos-writing-the-typo3-book).
