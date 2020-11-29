@@ -1,6 +1,6 @@
 name: Build ia-cyoa
 
-on: [push]
+on: [pull_request_target]
 
 jobs:
   build:
