@@ -10,6 +10,13 @@
 
 Information Architecture
 
+[note]
+This is the source of the Interactive IA Guide mini-site.
+It was written in Twine, using the Chapbook-1 format.
+A GitHub action runs in the website repo that uses the compiler Tweego to build the Twine file into an HTML file and publish it to the correct location on the website.
+You can also use Tweego locally.
+
+
 :: Start
 
 userName: ' '
