@@ -39,7 +39,7 @@ This will help you know which templates to use from the Good Docs Project, and g
 If you want to do this using the interactive tool, go here instead: [Interactive IA Guide](don't click here the link does not exist yet).
 The interactive version is the same as this static version, so you can use this version to check back on later on if you need to.
 
-## What are you writing about?
+## What are you writing about?
 
 The first thing to do is think about what you're writing about.
 
