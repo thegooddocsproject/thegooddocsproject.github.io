@@ -13,4 +13,4 @@ layout: default
     *   [Prioritization guidelines and principles](prioritization.html)
     *   [Proposal selection process](proposal-selection.html)
     *   [Decision log](decisionlog.html)
-*   [Code of conduct](https://github.com/thegooddocsproject/governance/blob/master/CodeOfConduct.md)
+*   [Code of conduct](https://github.com/thegooddocsproject/governance/blob/master/CODE_OF_CONDUCT.md)
