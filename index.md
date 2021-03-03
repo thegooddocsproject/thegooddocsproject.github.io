@@ -6,7 +6,7 @@ _“Best practice templates and writing instructions for documenting open source
 
 ### Why?
 
-We want to help open source projects be more effective by helping them lift the quality of their documentation. 
+We want to help open source projects be more effective by helping them lift the quality of their documentation.
 
 ### How?
 
@@ -29,11 +29,13 @@ Our key target audiences are:
 * The latest development version of templates are available from the [github main branch](https://github.com/thegooddocsproject/templates).
 * The [0.1 alpha straw-man release of templates](https://github.com/thegooddocsproject/templates/releases/tag/v0.1) was released at the 2019 Write The Docs - Australia conference.
 
+Not quite ready to jump into the templates yet?
+Prepare yourself for writing great documentation by spending some time in the shoes of your readers, with the [Information Architecture Guide](ia-guide.html)
+
 ### 2020 Initiatives
 The following initiatives are being worked on in 2020:
 * Templates
-* Information architecture guide
-* Cross-domain management of glossaries 
+* Cross-domain management of glossaries
 * How-to for style guides
 * Base template (template for templates)
 
