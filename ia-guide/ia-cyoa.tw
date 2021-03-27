@@ -10,6 +10,12 @@
 
 Information Architecture
 
+[note]
+This is the source of the Interactive IA Guide mini-site.
+It was written in Twine, using the Chapbook-1 format.
+A GitHub action runs in the website repo that uses the compiler Tweego to build the Twine file into an HTML file and publish it to the correct location on the website.
+You can also use Tweego locally.
+
 
 :: Start
 
@@ -19,6 +25,8 @@ userName: ' '
 # Information Architecture
 
 **[[Let's Start->Intro]]**
+
+{embed image: 'images/manualmanual.svg', alt: 'A happy person in a pink shirt, with a halo, holding a purple book named "The manaul About Writing Manauls"'}
 
 :: Intro
 config.footer.left: "▰▱▱▱▱▱▱▱▱▱ 6%"
